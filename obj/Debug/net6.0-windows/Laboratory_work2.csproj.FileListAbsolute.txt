@@ -1,0 +1,17 @@
+C:\Users\adher\source\repos\Laboratory_work2\bin\Debug\net6.0-windows\Laboratory_work2.exe
+C:\Users\adher\source\repos\Laboratory_work2\bin\Debug\net6.0-windows\Laboratory_work2.deps.json
+C:\Users\adher\source\repos\Laboratory_work2\bin\Debug\net6.0-windows\Laboratory_work2.runtimeconfig.json
+C:\Users\adher\source\repos\Laboratory_work2\bin\Debug\net6.0-windows\Laboratory_work2.dll
+C:\Users\adher\source\repos\Laboratory_work2\bin\Debug\net6.0-windows\Laboratory_work2.pdb
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.csproj.AssemblyReference.cache
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.Form1.resources
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.csproj.GenerateResource.cache
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.AssemblyInfoInputs.cache
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.AssemblyInfo.cs
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.csproj.CoreCompileInputs.cache
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.dll
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\refint\Laboratory_work2.dll
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.pdb
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\Laboratory_work2.genruntimeconfig.cache
+C:\Users\adher\source\repos\Laboratory_work2\obj\Debug\net6.0-windows\ref\Laboratory_work2.dll
